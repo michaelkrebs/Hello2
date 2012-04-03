@@ -1,0 +1,2 @@
+Funktioniert es ein Repo in Git zu
+erstellen und einfach auf Git Hub zu laden??
